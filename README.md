@@ -31,6 +31,8 @@ Just run this from a terminal.
 
 > If you're creating a new theme all of these will be blank.
 
+> You can right click and copy / paste each of these to a different icon.
+
 ### 2
 From left to right:
 
@@ -65,6 +67,15 @@ From left to right:
 > Export: Exports the current theme to a .tar.gz file. You can then copy this file to your .themes folder and extract it.
 
 > Load: Loads an already existing theme. This has to be the xfwm4 folder or a folder with xfwm4 in it.
+
+
+## Hotkeys:
+
+Ctrl+Click: Copies the color under the mouse.
+
+Shift+Click: Creates a box based off the previous time you click and where you Shift+Click.
+
+Middle Click: Replaces the color under the mouse with the active color.
 
 
 ## Note:
