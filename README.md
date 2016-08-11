@@ -1,6 +1,8 @@
 # XFWM_theme_creator
 A graphical interface to help with creating XFWM themes
 
+**Warning:** This is still WIP so some of the things are not commented on and there are still things I need to fix and or build.
+
 ## Installing:
 
 Make sure you have:
@@ -48,7 +50,7 @@ From left to right:
 
 > **This will destroy all your work on the current area.**
 
-## 5
+### 5
 
 > A list of GTK variables you can use. They will change based on the current theme you have set.
 
